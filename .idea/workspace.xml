@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fd96f1a-0cc4-4446-9cb3-0dd3ca2b18a3" name="Default" comment="" />
+    <list default="true" id="3fd96f1a-0cc4-4446-9cb3-0dd3ca2b18a3" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/suning.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scrapy.cfg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/suning/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/suning/items.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/suning/middlewares.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/suning/pipelines.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/suning/settings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/suning/spiders/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/suning/spiders/suningbook.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
